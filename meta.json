@@ -1,21 +1,9 @@
 [
   {
-    "slug": "why-i-hate-social-media",
-    "title": "😤 Why I Hate Social Media (But Still Use It)",
-    "img": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/09/Social-media-advertising-and-design-tips.jpeg?auto=format&q=60&fit=max&w=930",
-    "date": "May 13th, 2025"
-  },
-  {
-    "slug": "why-i-still-love-writing-blogs",
-    "title": "✍️ Why I Still Love Writing Blogs (Even If No One Reads Them)",
-    "img": "https://www.searchenginejournal.com/wp-content/uploads/2020/08/7-ways-a-blog-can-help-your-business-right-now-5f3c06b9eb24e-1280x720.png",
-    "date": "May 12th, 2025"
-  },
-  {
-    "slug": "is-duolingo-really-worth-it",
-    "title": "🦉 Is Duolingo Really Worth It?",
-    "img": "https://i.pcmag.com/imagery/reviews/07w3TE0qtevWbXyZZOsB6gK-45..v1680809084.jpg",
-    "date": "May 11th, 2025"
+    "slug": "why-i-chose-to-become-a-developer",
+    "title": "📘 Why I Chose to Become a Developer — My Journey",
+    "img": "https://swiftlet.co.th/wp-content/uploads/2020/01/Software-Developer.jpg",
+    "date": "May 9th, 2025"
   },
   {
     "slug": "why-i-chose-arch-linux-over-windows-and-other-distros",
@@ -24,9 +12,22 @@
     "date": "May 10th, 2025"
   },
   {
-    "slug": "why-i-chose-to-become-a-developer",
-    "title": "📘 Why I Chose to Become a Developer — My Journey",
-    "img": "https://swiftlet.co.th/wp-content/uploads/2020/01/Software-Developer.jpg",
-    "date": "May 9th, 2025"
+    "slug": "is-duolingo-really-worth-it",
+    "title": "🦉 Is Duolingo Really Worth It?",
+    "img": "https://i.pcmag.com/imagery/reviews/07w3TE0qtevWbXyZZOsB6gK-45..v1680809084.jpg",
+    "date": "May 11th, 2025"
+  },
+  {
+    "slug": "why-i-still-love-writing-blogs",
+    "title": "✍️ Why I Still Love Writing Blogs (Even If No One Reads Them)",
+    "img": "https://www.searchenginejournal.com/wp-content/uploads/2020/08/7-ways-a-blog-can-help-your-business-right-now-5f3c06b9eb24e-1280x720.png",
+    "date": "May 12th, 2025"
+  },
+  {
+    "slug": "why-i-hate-social-media",
+    "title": "😤 Why I Hate Social Media (But Still Use It)",
+    "img": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/09/Social-media-advertising-and-design-tips.jpeg?auto=format&q=60&fit=max&w=930",
+    "date": "May 13th, 2025"
   }
 ]
+
